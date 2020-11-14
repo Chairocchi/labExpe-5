@@ -1,5 +1,5 @@
 <?php 
-	include("php/dbconnect.php"); 
+	include("../dbconnect.php"); 
 	include("php/head.php"); 
 ?>
 	</head>
