@@ -1,5 +1,5 @@
 <?php
-	include("php/dbconnect.php");
+	include("dbconnect.php");
 	$error = '';
 	if(isset($_POST['save'])) {
 		$oldpassword = mysqli_real_escape_string($conn,$_POST['oldpassword']);

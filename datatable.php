@@ -1,5 +1,5 @@
 <?php
-include("php/dbconnect.php");
+include("dbconnect.php");
 
 if($_GET['type']=="feesearch")
 {

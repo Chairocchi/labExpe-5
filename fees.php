@@ -1,6 +1,6 @@
 <?php
-	include("php/dbconnect.php");
-	//include("php/checklogin.php");
+	include("dbconnect.php");
+
 	$errormsg= '';
 	if(isset($_POST['save'])) {
 		$paid = mysqli_real_escape_string($conn,$_POST['paid']);

@@ -1,6 +1,6 @@
 <?php
 
-	include("php/dbconnect.php");
+	include("dbconnect.php");
 
 	if($_GET['type'] == 'studentname'){
 		$result = $conn->query("SELECT name,contact FROM student where balance>0 and (name LIKE '%".$_GET['name_startsWith']."%' or contact LIKE '%".$_GET['name_startsWith']."%')   ");	

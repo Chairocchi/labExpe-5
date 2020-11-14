@@ -1,4 +1,4 @@
-<?php include("php/dbconnect.php"); ?>
+<?php include("dbconnect.php"); ?>
 
 	<?php include("php/head.php"); ?>
 		<link href="css/ui.css" rel="stylesheet" />
