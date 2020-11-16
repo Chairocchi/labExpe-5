@@ -4,7 +4,7 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<title>Normalis Novum University</title>
-		<link rel="icon" type="image/png" href="img/logo-invoice.png" />
+		<link rel="icon" type="image/png" href="img/logo.png" />
 
 		<!-- BOOTSTRAP STYLES-->
 		<link href="css/bootstrap.css" rel="stylesheet" />
