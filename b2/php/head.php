@@ -5,7 +5,10 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<title>Normalis Novum University</title>
 		<link rel="icon" type="image/png" href="img/logo.png" />
-
+		
+		<!-- GOOGLE ADSENSE -->
+		<script data-ad-client="ca-pub-3578746960857658" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+		
 		<!-- BOOTSTRAP STYLES-->
 		<link href="css/bootstrap.css" rel="stylesheet" />
 		<!-- FONTAWESOME STYLES-->
